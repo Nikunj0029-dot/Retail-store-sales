@@ -1,3 +1,4 @@
-# Retail-store-sales
-# Power bi dashboard 
+# Power Bi Dashboard 
+# Sales Retail Stores 
 # end to end 
+
